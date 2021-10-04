@@ -17,6 +17,14 @@
 		} ,
 	
 		{
+		  "title"      : "Lecture 2: Data Visualization Techniques",
+		  "category"   : "",
+		  "url"        : "/IDS2021F/lecture/2-data.vis",
+		  "date"       : "2021-09-27 00:00:00 -0500",
+		  "shortdate"  : "September 27, 2021"
+		} ,
+	
+		{
 		  "title"      : "Homework 2: Programming History",
 		  "category"   : "",
 		  "url"        : "/IDS2021F/homework/2-programming-history",

@@ -7,7 +7,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/IDS2021F/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/IDS2021F/" />
-<updated>2021-10-04T00:45:23-05:00</updated>
+<updated>2021-10-04T10:52:22-05:00</updated>
 <id>http:/IDS2021F/</id>
 <author>
   <name>Amir Shahmoradi</name>
@@ -300,6 +300,32 @@ The logarithm in bae of 10, the exponent that if the number 10 is raised to, the
 
   
   &lt;p&gt;&lt;a href=&quot;http:/IDS2021F/quiz/2-prog-hist&quot;&gt;Quiz 2: Programming History&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2021F&quot;&gt;DATA 1301 - Fall 2021 - MWF 9:00-9:50 - Life Science Building (LS) 101 / Microsoft Teams Virtual Room&lt;/a&gt; on September 27, 2021.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Lecture 2: Data Visualization Techniques]]></title>
+  <link rel="alternate" type="text/html" href="http:/IDS2021F/lecture/2-data.vis"/>
+  <id>http:/IDS2021F/lecture/2-data.vis</id>
+  <published>2021-09-27T00:00:00-05:00</published>
+  <updated>0000-00-00T00:00:00-00:00</updated>
+  
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/IDS2021F</uri>
+    <email>shahmoradi@utexas.edu</email>
+  </author>
+  
+  <content type="html">
+  
+    &lt;p&gt;This lecture aims at providing a brief overview of data visualization techniques.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/s/mbvq5hzctpsb6r6/5.data.vis.pdf?dl=0&quot; target=&quot;_blank&quot;&gt;Data Visualization&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/IDS2021F/lecture/2-data.vis&quot;&gt;Lecture 2: Data Visualization Techniques&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2021F&quot;&gt;DATA 1301 - Fall 2021 - MWF 9:00-9:50 - Life Science Building (LS) 101 / Microsoft Teams Virtual Room&lt;/a&gt; on September 27, 2021.&lt;/p&gt;</content>
 </entry>
 
 
