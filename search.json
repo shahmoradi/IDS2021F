@@ -1,0 +1,67 @@
+[
+	
+		{
+		  "title"      : "Homework 3: Data Visualization",
+		  "category"   : "",
+		  "url"        : "/IDS2021F/homework/3-data-vis",
+		  "date"       : "2021-10-01 00:00:00 -0500",
+		  "shortdate"  : "October 01, 2021"
+		} ,
+	
+		{
+		  "title"      : "Quiz 2: Programming History",
+		  "category"   : "",
+		  "url"        : "/IDS2021F/quiz/2-prog-hist",
+		  "date"       : "2021-09-27 00:00:00 -0500",
+		  "shortdate"  : "September 27, 2021"
+		} ,
+	
+		{
+		  "title"      : "Homework 2: Programming History",
+		  "category"   : "",
+		  "url"        : "/IDS2021F/homework/2-programming-history",
+		  "date"       : "2021-09-20 00:00:00 -0500",
+		  "shortdate"  : "September 20, 2021"
+		} ,
+	
+		{
+		  "title"      : "Quiz 1: Intro. Data Science, Version Control Systems",
+		  "category"   : "",
+		  "url"        : "/IDS2021F/quiz/1-intro-vcs",
+		  "date"       : "2021-09-13 00:00:00 -0500",
+		  "shortdate"  : "September 13, 2021"
+		} ,
+	
+		{
+		  "title"      : "Homework 1: Version Control Using Git and Github",
+		  "category"   : "",
+		  "url"        : "/IDS2021F/homework/1-vcs",
+		  "date"       : "2021-09-01 00:00:00 -0500",
+		  "shortdate"  : "September 01, 2021"
+		} ,
+	
+		{
+		  "title"      : "Lecture 1: Programming history",
+		  "category"   : "",
+		  "url"        : "/IDS2021F/lecture/1-programming-history",
+		  "date"       : "2021-08-30 00:00:00 -0500",
+		  "shortdate"  : "August 30, 2021"
+		} ,
+	
+		{
+		  "title"      : "Lecture 0: Introduction to Data Science",
+		  "category"   : "",
+		  "url"        : "/IDS2021F/lecture/0-intro-data-science",
+		  "date"       : "2021-08-27 00:00:00 -0500",
+		  "shortdate"  : "August 27, 2021"
+		} ,
+	
+		{
+		  "title"      : "Announcement 0: Student-professor connection day",
+		  "category"   : "",
+		  "url"        : "/IDS2021F/announcement/0-student-professor-connection-day",
+		  "date"       : "2021-08-25 00:00:00 -0500",
+		  "shortdate"  : "August 25, 2021"
+		} 
+	
+]
