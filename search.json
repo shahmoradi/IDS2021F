@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Lecture 3: Logic and Probability Theory",
+		  "category"   : "",
+		  "url"        : "/IDS2021F/lecture/3-logic.probability",
+		  "date"       : "2021-10-11 00:00:00 -0500",
+		  "shortdate"  : "October 11, 2021"
+		} ,
+	
+		{
 		  "title"      : "Quiz 3: Data Visualization",
 		  "category"   : "",
 		  "url"        : "/IDS2021F/quiz/3-data.vis",

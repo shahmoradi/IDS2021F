@@ -17,6 +17,11 @@ callback([
   } ,
 
   {
+    "text": "Lecture 3: Logic and Probability Theory",
+    "href": "/IDS2021F/lecture/3-logic.probability"
+  } ,
+
+  {
     "text": "Lecture 2: Data Visualization Techniques",
     "href": "/IDS2021F/lecture/2-data.vis"
   } ,
