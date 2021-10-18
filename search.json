@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Homework 4: Logic and Probability Theory",
+		  "category"   : "",
+		  "url"        : "/IDS2021F/homework/4-logic",
+		  "date"       : "2021-10-15 00:00:00 -0500",
+		  "shortdate"  : "October 15, 2021"
+		} ,
+	
+		{
 		  "title"      : "Lecture 3: Logic and Probability Theory",
 		  "category"   : "",
 		  "url"        : "/IDS2021F/lecture/3-logic.probability",
