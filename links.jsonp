@@ -27,6 +27,11 @@ callback([
   } ,
 
   {
+    "text": "Lecture 4: Cognitive Biases",
+    "href": "/IDS2021F/lecture/4-cognitive.biases"
+  } ,
+
+  {
     "text": "Lecture 3: Logic and Probability Theory",
     "href": "/IDS2021F/lecture/3-logic.probability"
   } ,

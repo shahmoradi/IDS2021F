@@ -7,13 +7,39 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/IDS2021F/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/IDS2021F/" />
-<updated>2021-11-15T01:45:49-06:00</updated>
+<updated>2021-11-18T20:16:56-06:00</updated>
 <id>http:/IDS2021F/</id>
 <author>
   <name>Amir Shahmoradi</name>
   <uri>http:/IDS2021F/</uri>
   <email>shahmoradi@utexas.edu</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Lecture 4: Cognitive Biases]]></title>
+  <link rel="alternate" type="text/html" href="http:/IDS2021F/lecture/4-cognitive.biases"/>
+  <id>http:/IDS2021F/lecture/4-cognitive.biases</id>
+  <published>2021-11-16T00:00:00-06:00</published>
+  <updated>0000-00-00T00:00:00-00:00</updated>
+  
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/IDS2021F</uri>
+    <email>shahmoradi@utexas.edu</email>
+  </author>
+  
+  <content type="html">
+  
+    &lt;p&gt;This lecture aims at providing a brief overview of the role of Cognitive Biases in inference.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/s/pue4u9o4valh3rr/4.cognitive.biases.pdf?dl=0&quot; target=&quot;_blank&quot;&gt;slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/IDS2021F/lecture/4-cognitive.biases&quot;&gt;Lecture 4: Cognitive Biases&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2021F&quot;&gt;DATA 1301 - Fall 2021 - MWF 9:00-9:50 - Life Science Building (LS) 101 / Microsoft Teams Virtual Room&lt;/a&gt; on November 16, 2021.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
