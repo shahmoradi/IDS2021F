@@ -2,6 +2,11 @@
 callback([
 
   {
+    "text": "Quiz 6: Regression, Cognitive Biases",
+    "href": "/IDS2021F/quiz/6-regression-cognitive-biases"
+  } ,
+
+  {
     "text": "Quiz 5: Logic and probability theory",
     "href": "/IDS2021F/quiz/5-logic-probability"
   } ,

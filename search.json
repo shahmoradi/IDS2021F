@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Quiz 6: Regression, Cognitive Biases",
+		  "category"   : "",
+		  "url"        : "/IDS2021F/quiz/6-regression-cognitive-biases",
+		  "date"       : "2021-11-19 00:00:00 -0600",
+		  "shortdate"  : "November 19, 2021"
+		} ,
+	
+		{
 		  "title"      : "Lecture 4: Cognitive Biases",
 		  "category"   : "",
 		  "url"        : "/IDS2021F/lecture/4-cognitive.biases",
