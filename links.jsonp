@@ -32,6 +32,11 @@ callback([
   } ,
 
   {
+    "text": "Lecture 5: Machine Learning",
+    "href": "/IDS2021F/lecture/5-ml"
+  } ,
+
+  {
     "text": "Lecture 4: Cognitive Biases",
     "href": "/IDS2021F/lecture/4-cognitive.biases"
   } ,
@@ -54,6 +59,11 @@ callback([
   {
     "text": "Lecture 0: Introduction to Data Science",
     "href": "/IDS2021F/lecture/0-intro-data-science"
+  } ,
+
+  {
+    "text": "Homework 7: Machine Learning algorithms",
+    "href": "/IDS2021F/homework/7-ml-clustering"
   } ,
 
   {

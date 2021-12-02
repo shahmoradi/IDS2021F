@@ -1,6 +1,22 @@
 [
 	
 		{
+		  "title"      : "Lecture 5: Machine Learning",
+		  "category"   : "",
+		  "url"        : "/IDS2021F/lecture/5-ml",
+		  "date"       : "2021-11-30 00:00:00 -0600",
+		  "shortdate"  : "November 30, 2021"
+		} ,
+	
+		{
+		  "title"      : "Homework 7: Machine Learning algorithms",
+		  "category"   : "",
+		  "url"        : "/IDS2021F/homework/7-ml-clustering",
+		  "date"       : "2021-11-30 00:00:00 -0600",
+		  "shortdate"  : "November 30, 2021"
+		} ,
+	
+		{
 		  "title"      : "Quiz 6: Regression, Cognitive Biases",
 		  "category"   : "",
 		  "url"        : "/IDS2021F/quiz/6-regression-cognitive-biases",
