@@ -45,7 +45,15 @@
         <loc>/IDS2021F/tags/index.html</loc>
     </url>
     
+    <url>
+        <loc>/IDS2021F/page2/</loc>
+    </url>
+    
 
+    
+    <url>
+        <loc>/IDS2021F/quiz/7-ml</loc>
+    </url>
     
     <url>
         <loc>/IDS2021F/lecture/5-ml</loc>

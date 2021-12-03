@@ -2,6 +2,11 @@
 callback([
 
   {
+    "text": "Quiz 7: Machine Learning",
+    "href": "/IDS2021F/quiz/7-ml"
+  } ,
+
+  {
     "text": "Quiz 6: Regression, Cognitive Biases",
     "href": "/IDS2021F/quiz/6-regression-cognitive-biases"
   } ,

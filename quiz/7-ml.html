@@ -11,7 +11,7 @@
 -->
 
 <meta charset="utf-8">
-<title>HOMEWORK 6: PREDICTION AND COGNITIVE BIASES &vert; DATA 1301 - FALL 2021 - MWF 9:00-9:50 - LIFE SCIENCE BUILDING (LS) 101 / MICROSOFT TEAMS VIRTUAL ROOM</title>
+<title>QUIZ 7: MACHINE LEARNING &vert; DATA 1301 - FALL 2021 - MWF 9:00-9:50 - LIFE SCIENCE BUILDING (LS) 101 / MICROSOFT TEAMS VIRTUAL ROOM</title>
 <meta name="description" content="Introduction to Data Science">
 <meta name="keywords" content="">
 
@@ -20,9 +20,9 @@
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Homework 6: Prediction and Cognitive Biases">
+<meta property="og:title" content="Quiz 7: Machine Learning">
 <meta property="og:description" content="Introduction to Data Science">
-<meta property="og:url" content="/IDS2021F/homework/6-prediction-cognitive-biases">
+<meta property="og:url" content="/IDS2021F/quiz/7-ml">
 <meta property="og:site_name" content="DATA 1301 - Fall 2021 - MWF 9:00-9:50 - Life Science Building (LS) 101 / Microsoft Teams Virtual Room">
 <meta property="og:image" content="/IDS2021F/images/">
 
@@ -30,7 +30,7 @@
 
 
 
-<link rel="canonical" href="/IDS2021F/homework/6-prediction-cognitive-biases">
+<link rel="canonical" href="/IDS2021F/quiz/7-ml">
 <!-- <link href="/IDS2021F/feed.xml" type="application/atom+xml" rel="alternate" title="DATA 1301 - Fall 2021 - MWF 9:00-9:50 - Life Science Building (LS) 101 / Microsoft Teams Virtual Room Feed"> -->
 
 
@@ -130,8 +130,8 @@ MathJax.Hub.Queue(function() {
                 <div class="notepad-post-title-simple row">
                     <div class="small-12 columns">
                         <div class="notepad-post-meta-simple">
-                            <h2>Homework 6: Prediction and Cognitive Biases</h2>
-                            <p>by <strong>Amir Shahmoradi</strong> &#8212;  <strong><time datetime="2021-11-13T00:00:00-06:00">13 Nov 2021</time></strong></p>
+                            <h2>Quiz 7: Machine Learning</h2>
+                            <p>by <strong>Amir Shahmoradi</strong> &#8212;  <strong><time datetime="2021-12-03T00:00:00-06:00">03 Dec 2021</time></strong></p>
                         </div>
                     </div>
                 </div>
@@ -141,25 +141,55 @@ MathJax.Hub.Queue(function() {
             <article class="notepad-post-content post tag-simple">
         
             <div style="text-align:justify;">
-                <p>♣ <strong>Due Date: Friday Nov 19, 2021 9:00 AM</strong>. This homework aims at giving you some experience with Scientific Prediction and Cognitive Biases that affect human mind.</p>
+                <!--
+This is the solution to [Quiz 1: Problems - Version control system](1-problems-version-control-system.html){:target="_blank"}.
+
+The following figure illustrates the grade distribution for this quiz.
+<figure>
+    <img src="/IDS2021F/quiz/gradeDist/gradeHistQuiz1.png" width="700">
+    <figcaption style="text-align:center">
+        Maximum possible points is 1.
+    </figcaption>
+</figure>
+-->
+
+<p>This quiz aims at testing your basic knowledge of Machine Learning and clustering techniques.
+Don’t forget to push your answers to your remote repository by the end of quiz time.
+Push all your answers to <strong>quiz/7/</strong> folder in your GitHub project.</p>
+
+<hr />
+<hr />
+
+<p><br /></p>
 
 <ol>
-  <li><a href="https://www.cdslab.org/recipes/programming/regression-predicting-future-global-land-temperature-excel/regression-predicting-future-global-land-temperature-excel" target="_blank">Regression: Predicting the global land temperature of Earth in 2050 from the past data: Choosing the best model</a>.</li>
-  <li><a href="https://www.cdslab.org/recipes/programming/vis-excel-temp-honolulu-duluth/vis-temp-honolulu-duluth-excel" target="_blank">Visualizing and comparing the temperatures of Honolulu and Duluth via Excel</a> (Except Part I, which you have already done in a previous HW).</li>
-  <li><a href="https://www.cdslab.org/recipes/programming/puzzle-how-many-animals-in-pond/puzzle-how-many-animals-in-pond" target="_blank">Puzzle: How many living creatures are in the pond</a>.</li>
-  <li><a href="https://www.cdslab.org/recipes/programming/puzzle-matchstick-equation/puzzle-matchstick-equation" target="_blank">Puzzle: Matchstick Wrong Equation</a>.</li>
+  <li>What is Machine Learning?</li>
+  <li>Which one is a subset of another? Machine Learning, Deep Learning.</li>
+  <li>What are the two broad categories of Machine Learning algorithms?</li>
+  <li>Suppose we have fit the following red-line to the following blue dataset representing the global temperature increase of Earth over the past centuries.<br />
+<img src="https://www.cdslab.org/recipes/programming/regression-predicting-future-global-land-temperature-maxlikelihood/GlobalLandTemperatureAnomaly2050.png" alt="global land temperature of Earth" /><br />
+What kind of learning is this fit? supervised or unsupervised?</li>
+  <li>What is the Kmeans algorithm in Machine Learning? Do we need to know the number of clusters a priori in the Kmeans method?</li>
+  <li>What is the difference between the Kmeans and the Kmedioids algorithms?</li>
+  <li>What is the difference between the Kmeans and the fuzzy C-Means algorithms?</li>
+  <li>What is <strong>cluster analysis</strong> in Machine Learning?</li>
+  <li>Name the four types of clustering methods.</li>
+  <li>What is the difference between top-down and bottom-up Hierarchical clustering techniques?</li>
+  <li>Does the DBSCAN clustering technique require the number of clusters to be known a priori? What (other) parameters have to be set before performing a DBSCAN clustering?</li>
+  <li>Visit <a href="https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/" target="_blank">this website</a> and choose the option <strong>Gaussian Mixture</strong> on the page to perform a DBSCAN on the Gaussian Mixture dataset. Adjust the two parameters of the DBSCAN algorithm such that there is no <strong>outlier</strong> (noise) point left after the clustering is done and all points become memebrs of some cluster. Take a screen-shot of the resulting clusters and submit the picture along with your responses.</li>
 </ol>
+
 
             </div>
         </article>
         <div class="cf"></div>
 <div class="row text-center">
     <section class="notepad-post-share">
-        <a class="twitter-icon" href="https://twitter.com/intent/tweet?text=&quot;Homework 6: Prediction and Cognitive Biases&quot;%20/IDS2021F/homework/6-prediction-cognitive-biases%20via%20&#64;"
+        <a class="twitter-icon" href="https://twitter.com/intent/tweet?text=&quot;Quiz 7: Machine Learning&quot;%20/IDS2021F/quiz/7-ml%20via%20&#64;"
             onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" title="Share on Twitter">
             <i class="fa fa-twitter"></i>
         </a>
-        <a class="facebook-icon" href="https://www.facebook.com/sharer/sharer.php?u=/IDS2021F/homework/6-prediction-cognitive-biases"
+        <a class="facebook-icon" href="https://www.facebook.com/sharer/sharer.php?u=/IDS2021F/quiz/7-ml"
             onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" title="Share on Facebook">
             <i class="fa fa-facebook"></i>
         </a>
