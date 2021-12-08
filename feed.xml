@@ -7,13 +7,78 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/IDS2021F/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/IDS2021F/" />
-<updated>2021-12-03T08:55:56-06:00</updated>
+<updated>2021-12-08T08:58:34-06:00</updated>
 <id>http:/IDS2021F/</id>
 <author>
   <name>Amir Shahmoradi</name>
   <uri>http:/IDS2021F/</uri>
   <email>shahmoradi@utexas.edu</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Final Exam]]></title>
+  <link rel="alternate" type="text/html" href="http:/IDS2021F/exam/1-final"/>
+  <id>http:/IDS2021F/exam/1-final</id>
+  <published>2021-12-08T00:00:00-06:00</published>
+  <updated>2021-12-08T00:00:00-06:00</updated>
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/IDS2021F</uri>
+    <email>shahmoradi@utexas.edu</email>
+  </author>
+  
+  <content type="html">
+  
+    &lt;!--
+This is the solution to [Quiz 1: Problems - Version control system](1-problems-version-control-system.html){:target=&quot;_blank&quot;}.
+
+The following figure illustrates the grade distribution for this quiz.
+&lt;figure&gt;
+    &lt;img src=&quot;http:/IDS2021F/quiz/gradeDist/gradeHistQuiz1.png&quot; width=&quot;700&quot;&gt;
+    &lt;figcaption style=&quot;text-align:center&quot;&gt;
+        Maximum possible points is 1.
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+[](){:target=&quot;_blank&quot;}
+--&gt;
+
+&lt;p&gt;This quiz aims at testing your basic knowledge of Machine Learning and clustering techniques.
+Don’t forget to push your answers to your remote repository by the end of quiz time.
+Push all your answers to &lt;strong&gt;exam/final/&lt;/strong&gt; folder in your GitHub project.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;What is the difference between model validation and calibration?&lt;/li&gt;
+  &lt;li&gt;what are aesthetics in data visualization? Name a few aesthetics that can appear in a data visualization.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/visualization-coloring/visualization-coloring&quot; target=&quot;_blank&quot;&gt;Best visualization coloring&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;How would you distinguish exponential behavior vs. power-law behavior (function) in a 2-dimensional plot like &lt;a href=&quot;https://www.cdslab.org/python/notes/preliminary-foundations/programming-history/wordFreq.png&quot; target=&quot;_blank&quot;&gt;this one&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/vis-colorscales/vis-colorscales&quot; target=&quot;_blank&quot;&gt;Visualization color scales&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Name the three pillars of science.&lt;/li&gt;
+  &lt;li&gt;Is logical implication the same as physical causation? Explain with an example.&lt;/li&gt;
+  &lt;li&gt;Suppose we have fit the following red-line to the following blue dataset representing the global temperature increase of Earth over the past centuries.&lt;br /&gt;
+&lt;img src=&quot;https://www.cdslab.org/recipes/programming/regression-predicting-future-global-land-temperature-maxlikelihood/GlobalLandTemperatureAnomaly2050.png&quot; alt=&quot;global land temperature of Earth&quot; /&gt;&lt;br /&gt;
+What kind of learning is this fit? supervised or unsupervised?&lt;/li&gt;
+  &lt;li&gt;Which school(s) of probability theory allow incorporation of expert (prior) knowledge in scientific inference?&lt;/li&gt;
+  &lt;li&gt;When data is scarce, which school of probability theory is the most useful for scientific inference?&lt;/li&gt;
+  &lt;li&gt;What are the major differences between the supervised and unsupervised learning algorithms?&lt;/li&gt;
+  &lt;li&gt;Which school of thought in Probability Theory cannot define or discuss the probability of existence of God? Why?&lt;/li&gt;
+  &lt;li&gt;What is wrong in the following histogram?&lt;br /&gt;
+&lt;img src=&quot;wrong.png&quot; alt=&quot;wrong.png&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Name (at least) three types of clustering techniques.&lt;/li&gt;
+  &lt;li&gt;Why is everything represented by integers in computers?&lt;/li&gt;
+  &lt;li&gt;Name an ancestor programming language of C.&lt;/li&gt;
+  &lt;li&gt;What kind of data set can be best visualized in polar coordinates?&lt;/li&gt;
+  &lt;li&gt;What is the major difference between the DBSCAN and Kmeans clustering algorithm? (naming one or two differences is enough)&lt;/li&gt;
+&lt;/ol&gt;
+
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/IDS2021F/exam/1-final&quot;&gt;Final Exam&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2021F&quot;&gt;DATA 1301 - Fall 2021 - MWF 9:00-9:50 - Life Science Building (LS) 101 / Microsoft Teams Virtual Room&lt;/a&gt; on December 08, 2021.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -1197,32 +1262,6 @@ Inside the &lt;code&gt;hw&lt;/code&gt; folder, create another folder named &lt;c
 
   
   &lt;p&gt;&lt;a href=&quot;http:/IDS2021F/lecture/1-programming-history&quot;&gt;Lecture 1: Programming history&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2021F&quot;&gt;DATA 1301 - Fall 2021 - MWF 9:00-9:50 - Life Science Building (LS) 101 / Microsoft Teams Virtual Room&lt;/a&gt; on August 30, 2021.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Lecture 0: Introduction to Data Science]]></title>
-  <link rel="alternate" type="text/html" href="http:/IDS2021F/lecture/0-intro-data-science"/>
-  <id>http:/IDS2021F/lecture/0-intro-data-science</id>
-  <published>2021-08-27T00:00:00-05:00</published>
-  <updated>0000-00-00T00:00:00-00:00</updated>
-  
-  <author>
-    <name>Amir Shahmoradi</name>
-    <uri>http:/IDS2021F</uri>
-    <email>shahmoradi@utexas.edu</email>
-  </author>
-  
-  <content type="html">
-  
-    &lt;p&gt;This lecture aims at providing a quick introduction to foundations of Data Science, the Data Science job market, and the Data Science program of UTA.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/UTA-DataScience/DATA1301.2021.Fall/raw/main/0.introduction.pdf&quot; target=&quot;_blank&quot;&gt;intro-data-science&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-  
-  &lt;p&gt;&lt;a href=&quot;http:/IDS2021F/lecture/0-intro-data-science&quot;&gt;Lecture 0: Introduction to Data Science&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2021F&quot;&gt;DATA 1301 - Fall 2021 - MWF 9:00-9:50 - Life Science Building (LS) 101 / Microsoft Teams Virtual Room&lt;/a&gt; on August 27, 2021.&lt;/p&gt;</content>
 </entry>
 
 </feed>
