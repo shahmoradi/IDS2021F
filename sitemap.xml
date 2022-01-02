@@ -45,19 +45,7 @@
         <loc>/IDS2021F/tags/index.html</loc>
     </url>
     
-    <url>
-        <loc>/IDS2021F/page2/</loc>
-    </url>
-    
 
-    
-    <url>
-        <loc>/IDS2021F/exam/1-final</loc>
-    </url>
-    
-    <url>
-        <loc>/IDS2021F/quiz/7-ml</loc>
-    </url>
     
     <url>
         <loc>/IDS2021F/lecture/5-ml</loc>
@@ -65,10 +53,6 @@
     
     <url>
         <loc>/IDS2021F/homework/7-ml-clustering</loc>
-    </url>
-    
-    <url>
-        <loc>/IDS2021F/quiz/6-regression-cognitive-biases</loc>
     </url>
     
     <url>
@@ -80,15 +64,7 @@
     </url>
     
     <url>
-        <loc>/IDS2021F/quiz/5-logic-probability</loc>
-    </url>
-    
-    <url>
         <loc>/IDS2021F/homework/5-logic-probability-theory</loc>
-    </url>
-    
-    <url>
-        <loc>/IDS2021F/quiz/4-logic</loc>
     </url>
     
     <url>
@@ -100,15 +76,7 @@
     </url>
     
     <url>
-        <loc>/IDS2021F/quiz/3-data.vis</loc>
-    </url>
-    
-    <url>
         <loc>/IDS2021F/homework/3-data-vis</loc>
-    </url>
-    
-    <url>
-        <loc>/IDS2021F/quiz/2-prog-hist</loc>
     </url>
     
     <url>
@@ -117,10 +85,6 @@
     
     <url>
         <loc>/IDS2021F/homework/2-programming-history</loc>
-    </url>
-    
-    <url>
-        <loc>/IDS2021F/quiz/1-intro-vcs</loc>
     </url>
     
     <url>

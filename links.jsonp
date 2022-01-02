@@ -2,41 +2,6 @@
 callback([
 
   {
-    "text": "Quiz 7: Machine Learning",
-    "href": "/IDS2021F/quiz/7-ml"
-  } ,
-
-  {
-    "text": "Quiz 6: Regression, Cognitive Biases",
-    "href": "/IDS2021F/quiz/6-regression-cognitive-biases"
-  } ,
-
-  {
-    "text": "Quiz 5: Logic and probability theory",
-    "href": "/IDS2021F/quiz/5-logic-probability"
-  } ,
-
-  {
-    "text": "Quiz 4: Inference and Logic",
-    "href": "/IDS2021F/quiz/4-logic"
-  } ,
-
-  {
-    "text": "Quiz 3: Data Visualization",
-    "href": "/IDS2021F/quiz/3-data.vis"
-  } ,
-
-  {
-    "text": "Quiz 2: Programming History",
-    "href": "/IDS2021F/quiz/2-prog-hist"
-  } ,
-
-  {
-    "text": "Quiz 1: Intro. Data Science, Version Control Systems",
-    "href": "/IDS2021F/quiz/1-intro-vcs"
-  } ,
-
-  {
     "text": "Lecture 5: Machine Learning",
     "href": "/IDS2021F/lecture/5-ml"
   } ,
@@ -99,11 +64,6 @@ callback([
   {
     "text": "Homework 1: Version Control Using Git and Github",
     "href": "/IDS2021F/homework/1-vcs"
-  } ,
-
-  {
-    "text": "Final Exam",
-    "href": "/IDS2021F/exam/1-final"
   } ,
 
   {
